@@ -1,0 +1,128 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: main - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP2897.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/main.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\DataStructureProject-master\DataStructure\main.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP2897.tmp" 
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+f:\datastructureproject-master\datastructure\main.cpp(25) : error C2871: 'NO_2' : does not exist or is not a namespace
+f:\datastructureproject-master\datastructure\main.cpp(32) : error C2061: syntax error : identifier 'Cli'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : error C2143: syntax error : missing ';' before '}'
+f:\datastructureproject-master\datastructure\main.cpp(39) : fatal error C1003: error count exceeds 100; stopping compilation
+Ö´ĞĞ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+main.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,2 +1,4 @@
-# DataStructureProject-master
-数据结构代码
+Data Structure Project
+======================
+
+数据结构课程设计
